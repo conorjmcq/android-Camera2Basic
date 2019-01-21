@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/3aa725c6a29648a0a01c71d9844cb598/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c23a65c26b89828a212ab6bca5557750/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/359790e0ed37af25359a4648b473f44b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/255fe1b68d2cc713925ca4b8c08a8481/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/56c63bbe11b5d30acbcbbc59e5636d64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bdc43de12ae8a6cc594710bcf67a93c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/136d245a86463bc32e9502cbfa0f3961/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7e02c7da6d24a06c73c9fbb7d907222a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c7da49ae9cba9ec226dc64b7fddec6a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fe89332d11f115eaa9544d0e56073374/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/058019f58308cecc8db064ad2710a89a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ed90fda3ed1a322544d6e89279639bb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b458eba439f35152d3355ab4e41201cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a49a3ea589cd8391336ac6f653300d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9560164a903e007ad5a5e4785560a051/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d8b55ef8d1c074e5b567b86dbc0e8a63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0727d352891f85b465fc3729c3dd6c69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fb621fd6cd7a4579cc251d688c14fb6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9fb6256999c77cc2b4a2439f6b45a2e6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72e4455dfa4570f1ce67e4143d8cb091/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0bb6d55dcd5922b7033e83b2aae0e1a8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/75b5659a24bc392191f44347270a8402/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d0b0b796596cb3e57b6bc7a9dcda9c77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f86dd8a8aea4a27e902a157a687b87a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e98084177a81ce11051e595e7784f93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/684b37c0c39db026b7b28bc544d545e9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d7cbcb241abd000260791ff2d9db534e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2c09d66ced9a1e1420cbac6f10905d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/492c0e4ab451aae3573f4a7e3926565c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1accf55ed073a0d7bd9305e5247624b8/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9fb6256999c77cc2b4a2439f6b45a2e6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9fb6256999c77cc2b4a2439f6b45a2e6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72e4455dfa4570f1ce67e4143d8cb091/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72e4455dfa4570f1ce67e4143d8cb091/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9fb6256999c77cc2b4a2439f6b45a2e6/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:31:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/3aa725c6a29648a0a01c71d9844cb598/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/3aa725c6a29648a0a01c71d9844cb598/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c23a65c26b89828a212ab6bca5557750/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c23a65c26b89828a212ab6bca5557750/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/359790e0ed37af25359a4648b473f44b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/359790e0ed37af25359a4648b473f44b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/255fe1b68d2cc713925ca4b8c08a8481/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/255fe1b68d2cc713925ca4b8c08a8481/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/56c63bbe11b5d30acbcbbc59e5636d64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/56c63bbe11b5d30acbcbbc59e5636d64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bdc43de12ae8a6cc594710bcf67a93c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/bdc43de12ae8a6cc594710bcf67a93c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/136d245a86463bc32e9502cbfa0f3961/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/136d245a86463bc32e9502cbfa0f3961/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7e02c7da6d24a06c73c9fbb7d907222a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7e02c7da6d24a06c73c9fbb7d907222a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c7da49ae9cba9ec226dc64b7fddec6a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c7da49ae9cba9ec226dc64b7fddec6a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fe89332d11f115eaa9544d0e56073374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fe89332d11f115eaa9544d0e56073374/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/058019f58308cecc8db064ad2710a89a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/058019f58308cecc8db064ad2710a89a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ed90fda3ed1a322544d6e89279639bb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ed90fda3ed1a322544d6e89279639bb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b458eba439f35152d3355ab4e41201cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b458eba439f35152d3355ab4e41201cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a49a3ea589cd8391336ac6f653300d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6a49a3ea589cd8391336ac6f653300d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9560164a903e007ad5a5e4785560a051/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9560164a903e007ad5a5e4785560a051/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d8b55ef8d1c074e5b567b86dbc0e8a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d8b55ef8d1c074e5b567b86dbc0e8a63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0727d352891f85b465fc3729c3dd6c69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/0727d352891f85b465fc3729c3dd6c69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fb621fd6cd7a4579cc251d688c14fb6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fb621fd6cd7a4579cc251d688c14fb6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9fb6256999c77cc2b4a2439f6b45a2e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/9fb6256999c77cc2b4a2439f6b45a2e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72e4455dfa4570f1ce67e4143d8cb091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72e4455dfa4570f1ce67e4143d8cb091/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0bb6d55dcd5922b7033e83b2aae0e1a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0bb6d55dcd5922b7033e83b2aae0e1a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/75b5659a24bc392191f44347270a8402/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/75b5659a24bc392191f44347270a8402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d0b0b796596cb3e57b6bc7a9dcda9c77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/d0b0b796596cb3e57b6bc7a9dcda9c77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f86dd8a8aea4a27e902a157a687b87a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/4f86dd8a8aea4a27e902a157a687b87a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e98084177a81ce11051e595e7784f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9e98084177a81ce11051e595e7784f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/684b37c0c39db026b7b28bc544d545e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/684b37c0c39db026b7b28bc544d545e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d7cbcb241abd000260791ff2d9db534e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d7cbcb241abd000260791ff2d9db534e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2c09d66ced9a1e1420cbac6f10905d3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2c09d66ced9a1e1420cbac6f10905d3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/492c0e4ab451aae3573f4a7e3926565c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/492c0e4ab451aae3573f4a7e3926565c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1accf55ed073a0d7bd9305e5247624b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/conormcquillan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1accf55ed073a0d7bd9305e5247624b8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/conormcquillan/tmp/android-Camera2Basic/Application/src/main/AndroidManifest.xml
